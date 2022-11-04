@@ -1,0 +1,2 @@
+Toast toast = Toast.makeText(getApplicationContext(),"Username/password cannot be blank space",Toast.LENGTH_SHORT);
+toast.show();

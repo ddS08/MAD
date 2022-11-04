@@ -1,0 +1,2 @@
+Intent i = new Intent(MainActivity.this//currentfilename.this prior to double slash,register.class//intentedfilename.class prior to double slash);
+startActivity(i);
